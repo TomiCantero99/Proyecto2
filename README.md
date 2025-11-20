@@ -1,3 +1,7 @@
+Integrantes: Tomas Cantero, Franco Cobatti, Kevin Rodriguez
+
+
+
 Conclusiones:
 1. ¿Cuál fue el desempeño del modelo?
 El modelo de Regresión Lineal Múltiple exhibió un desempeño fuerte y consistente en la predicción 
